@@ -1,0 +1,7 @@
+m1,m2,r,dir_agreement,k
+Residual,specparam,0.727,81.0,21
+Residual,IRASA,0.765,71.4,21
+Residual,Hilbert,0.8,81.0,21
+specparam,IRASA,0.646,71.4,21
+specparam,Hilbert,0.626,71.4,21
+IRASA,Hilbert,0.933,90.5,21

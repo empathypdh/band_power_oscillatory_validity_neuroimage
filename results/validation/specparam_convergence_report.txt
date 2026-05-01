@@ -1,0 +1,19 @@
+specparam (corrected) Convergence Report
+=============================================
+Parameters used:
+  peak_width_limits: [0.5, 12.0]
+  max_n_peaks: 8
+  min_peak_height: 0.05
+  peak_threshold: 2.0
+  aperiodic_mode: knee
+  verbose: False
+  freq_range: [2, 30]
+  input: LINEAR PSD (μV²/Hz)
+
+Total fits:     2196
+Converged:      2196
+Convergence %:  100.0%
+
+Mean R²:        0.9730
+Median R²:      0.9781
+R² ≥ 0.95:      92.3%
