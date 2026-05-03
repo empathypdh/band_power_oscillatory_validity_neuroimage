@@ -1,0 +1,6 @@
+Extraction log
+==================================================
+Root:     C:\SOP_data\analyzed data-pdh-eLoreta
+Subjects: 61
+Complete: 61/61
+

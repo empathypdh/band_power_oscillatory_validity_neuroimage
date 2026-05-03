@@ -1,0 +1,6 @@
+contrast,mean_dir_agree,pct_reliable,n_obs
+ESS1->LSS1,94.6,84.9,126
+TS->ESS1,97.8,93.7,126
+WS->ESS1,97.5,91.3,126
+WS->LSS1,96.5,87.3,126
+WS->TS,95.8,84.9,126

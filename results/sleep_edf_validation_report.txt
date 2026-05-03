@@ -1,0 +1,48 @@
+Sleep-EDF External Validation Report
+============================================================
+N subjects: 61
+
+
+Channel: fc_midline
+
+  Contrast: W → N1
+  Aperiodic exponent: dz=-0.709 p=0.000 ***
+    delta   : r(Δexp,ΔBLP)=0.745 ***  r(Δexp,ΔOPH)=-0.487 ***  DI=0.258
+    theta   : r(Δexp,ΔBLP)=0.615 ***  r(Δexp,ΔOPH)=0.290 *  DI=0.325
+    alpha1  : r(Δexp,ΔBLP)=0.096 ns  r(Δexp,ΔOPH)=-0.180 ns  DI=-0.085
+    alpha2  : r(Δexp,ΔBLP)=0.067 ns  r(Δexp,ΔOPH)=-0.143 ns  DI=-0.076
+    beta1   : r(Δexp,ΔBLP)=-0.011 ns  r(Δexp,ΔOPH)=-0.077 ns  DI=-0.066
+    beta2   : r(Δexp,ΔBLP)=0.004 ns  r(Δexp,ΔOPH)=-0.252 ns  DI=-0.248
+    beta3   : r(Δexp,ΔBLP)=-0.040 ns  r(Δexp,ΔOPH)=0.441 ***  DI=-0.402
+
+  Contrast: W → N2
+  Aperiodic exponent: dz=0.325 p=0.014 *
+    delta   : r(Δexp,ΔBLP)=0.727 ***  r(Δexp,ΔOPH)=-0.392 **  DI=0.334
+    theta   : r(Δexp,ΔBLP)=0.577 ***  r(Δexp,ΔOPH)=0.405 **  DI=0.172
+    alpha1  : r(Δexp,ΔBLP)=0.116 ns  r(Δexp,ΔOPH)=0.034 ns  DI=0.082
+    alpha2  : r(Δexp,ΔBLP)=0.000 ns  r(Δexp,ΔOPH)=-0.037 ns  DI=-0.037
+    beta1   : r(Δexp,ΔBLP)=-0.145 ns  r(Δexp,ΔOPH)=-0.010 ns  DI=0.135
+    beta2   : r(Δexp,ΔBLP)=-0.079 ns  r(Δexp,ΔOPH)=-0.615 ***  DI=-0.536
+    beta3   : r(Δexp,ΔBLP)=0.001 ns  r(Δexp,ΔOPH)=0.490 ***  DI=-0.489
+
+Channel: occipital
+
+  Contrast: W → N1
+  Aperiodic exponent: dz=-0.775 p=0.000 ***
+    delta   : r(Δexp,ΔBLP)=0.925 ***  r(Δexp,ΔOPH)=-0.010 ns  DI=0.915
+    theta   : r(Δexp,ΔBLP)=0.746 ***  r(Δexp,ΔOPH)=-0.093 ns  DI=0.653
+    alpha1  : r(Δexp,ΔBLP)=0.237 ns  r(Δexp,ΔOPH)=-0.221 ns  DI=0.017
+    alpha2  : r(Δexp,ΔBLP)=0.309 *  r(Δexp,ΔOPH)=-0.171 ns  DI=0.138
+    beta1   : r(Δexp,ΔBLP)=0.185 ns  r(Δexp,ΔOPH)=-0.471 ***  DI=-0.286
+    beta2   : r(Δexp,ΔBLP)=0.094 ns  r(Δexp,ΔOPH)=-0.024 ns  DI=0.070
+    beta3   : r(Δexp,ΔBLP)=0.062 ns  r(Δexp,ΔOPH)=0.463 ***  DI=-0.401
+
+  Contrast: W → N2
+  Aperiodic exponent: dz=0.143 p=0.268 ns
+    delta   : r(Δexp,ΔBLP)=0.951 ***  r(Δexp,ΔOPH)=-0.318 *  DI=0.633
+    theta   : r(Δexp,ΔBLP)=0.852 ***  r(Δexp,ΔOPH)=0.224 ns  DI=0.628
+    alpha1  : r(Δexp,ΔBLP)=0.225 ns  r(Δexp,ΔOPH)=-0.224 ns  DI=0.000
+    alpha2  : r(Δexp,ΔBLP)=0.142 ns  r(Δexp,ΔOPH)=-0.374 **  DI=-0.232
+    beta1   : r(Δexp,ΔBLP)=0.167 ns  r(Δexp,ΔOPH)=-0.043 ns  DI=0.124
+    beta2   : r(Δexp,ΔBLP)=-0.098 ns  r(Δexp,ΔOPH)=0.129 ns  DI=-0.031
+    beta3   : r(Δexp,ΔBLP)=-0.134 ns  r(Δexp,ΔOPH)=0.735 ***  DI=-0.601
